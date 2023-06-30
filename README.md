@@ -1,2 +1,2 @@
-# pp
-Repositório para projetos pessoais ou de treinos
+# PP
+Repositório para alocação de projetos pessoais ou de treinos em quaisquer plataformas.
