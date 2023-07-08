@@ -1,8 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
 body {
- background-color: black;
- color: white;   
+    height: 100vh;
+    box-sizing: border-box;
+    background-color: black;
+    color: white;   
 }
 
 strong {
     color: #999999;
+}
+
+.front {
+    margin: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.destaque {
+    color: #999999;
+}
+
+img {
+    border-radius: 10px;
 }
